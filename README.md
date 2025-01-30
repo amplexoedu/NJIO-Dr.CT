@@ -50,12 +50,14 @@ PRÊMIOS:
 Refência: https://form.simcc.org/2021/01/18/drct/ (Last acess: Jan-2025)
 
 
-A IJHS é uma sociedade de honra voltada para o desenvolvimento de lideranças, proporcionando aos seus membros a oportunidade de atingir o êxito em atividades acadêmicas e na vida pessoal. Ela disponibiliza diversas plataformas e chances para que os membros explorem seu potencial máximo e se conectem com suas comunidades. Seu financiamento é integralmente realizado pela Scholastic Trust Singapore (STS), uma entidade  sem fins lucrativos. Além disso, conta com o apoio de um destacado grupo de conselheiros voluntários, dedicados a orientar jovens líderes.
+*A IJHS é uma sociedade de honra voltada para o desenvolvimento de lideranças, proporcionando aos seus membros a oportunidade de atingir o êxito em atividades acadêmicas e na vida pessoal. Ela disponibiliza diversas plataformas e chances para que os membros explorem seu potencial máximo e se conectem com suas comunidades. Seu financiamento é integralmente realizado pela Scholastic Trust Singapore (STS), uma entidade  sem fins lucrativos. Além disso, conta com o apoio de um destacado grupo de conselheiros voluntários, dedicados a orientar jovens líderes.
 
 Mais informações e inscrições: https://olimpiadasinternacionais.org/drct24/ (Last acess: Jan-2025)
 
-Programa
-Graus 1-2: Pensamento Computacional Preparatório
+## Programa de Estudos (Syllabus)
+
+### Graus 1-2: Pensamento Computacional Preparatório
+
 Este curso é projetado para preparar crianças muito pequenas para aprender as ideias centrais da ciência da computação.
 Acredita-se que crianças nessa idade tenham faculdades mentais muito limitadas para executar
 um dos aspectos centrais do pensamento computacional: abstração. As aulas e atividades neste
@@ -64,28 +66,29 @@ instruções. Este curso pode ser feito sem um computador, mas a experiência do
 pode ser enriquecida se houver computadores disponíveis. Este esboço de aula é (fortemente) baseado em
 https://classic.csunplugged.org/ e https://code.org/educate/curriculum/elementary-school .
 
-• Lição 1: Reconhecimento de padrões
-• Lição 2: Sequenciamento, depuração
-• Usando o computador, aprendendo a clicar, arrastar e soltar
-• Lição 3: Loops
-• Lição 4: Representação binária de números
-• Lição 5: Representação de texto e imagens
+- Lição 1: Reconhecimento de padrões
+- Lição 2: Sequenciamento, depuração
+- Usando o computador, aprendendo a clicar, arrastar e soltar
+- Lição 3: Loops
+- Lição 4: Representação binária de números
+- Lição 5: Representação de texto e imagens
 
-Graus 3-4: Introdução à ciência da computação e pensamento computacional 1
+### Graus 3-4: Introdução à ciência da computação e pensamento computacional 1
+
 Este curso apresenta às crianças pequenas as ideias centrais da ciência da computação. Muitas ideias-chave da
 ciência da computação são tornadas acessíveis e envolventes para essa faixa etária ao apresentá-las como
 jogos. Este curso pode ser feito sem um computador, mas a experiência dos alunos pode ser
 enriquecida se os computadores estiverem disponíveis. Este esboço da lição é (fortemente) baseado em
 https://classic.csunplugged.org/ e https://code.org/educate/curriculum/elementary-school .
 
-• Lição 1: Revisão de Sequenciamento e Loops, Condições
-• Lição 2: Árvores
-• Lição 3: Teoria da Informação
-• Lição 4: Pesquisa
-• Lição 5: Classificação
-• Lição 6: Linguagens de Programação
+- Lição 1: Revisão de Sequenciamento e Loops, Condições
+- Lição 2: Árvores
+- Lição 3: Teoria da Informação
+- Lição 4: Pesquisa
+- Lição 5: Classificação
+- Lição 6: Linguagens de Programação
 
-5ª e 6ª séries: Introdução à Ciência da Computação e Pensamento Computacional 2
+### 5ª e 6ª séries: Introdução à Ciência da Computação e Pensamento Computacional 2
 Esta é uma continuação natural do curso anterior. Se o cronograma permitir, em teoria, um aluno da 3ª série que concluiu o curso anterior pode começar este curso imediatamente. Não há
 necessidade de esperar até a 5ª série, desde que o aluno seja maduro o suficiente para um raciocínio um pouco mais
 abstrato. Um pouco de familiaridade com álgebra será assumida para algumas partes do
@@ -95,54 +98,54 @@ usando uma linguagem de programação visual. Algumas partes deste curso exigem 
 enquanto outras não. Este esboço de lição é (levemente) baseado em https://classic.csunplugged.org/
 e https://code.org/educate/curriculum/elementary-school .
 
-• Lição 1: Funções
-• Lição 2: Variáveis
-• Lição 3: Introdução às Redes (Teoria dos Grafos)
-• Lição 4: Autômatos de Estado Finito
-• Lição 5: Álgebra Booleana, Problemas de Satisfação de Restrições
+- Lição 1: Funções
+- Lição 2: Variáveis
+- Lição 3: Introdução às Redes (Teoria dos Grafos)
+- Lição 4: Autômatos de Estado Finito
+- Lição 5: Álgebra Booleana, Problemas de Satisfação de Restrições
 
-7ª e 8ª séries: Programação em Python
+### 7ª e 8ª séries: Programação em Python
 Agora que o aluno aprendeu "conceitualmente" a maioria dos conceitos básicos da ciência da computação e
 fez um pouco de programação em uma linguagem de programação visual, ele deve estar pronto para
 fazer alguma programação "real". Álgebra é um pré-requisito para este curso: os alunos já devem
 estar familiarizados com as noções de variáveis, equações, desigualdades e funções.
 
-• Lição 1: Introdução ao Python, Entrada e Saída, Primitivas, Variáveis, Modelo de
-• Avaliação, Condicionais
-• Lição 2: Listas, Strings, Iteração, Invariantes de Loop
-• Lição 3: Funções, Princípio de Abstração e Modularidade, Design Top-down
-• Lição 4: Teste e Depuração
-• Lição 5: Expressões Lambda e Funções de Ordem Superior
-• Lição 6: Recursão
+- Lição 1: Introdução ao Python, Entrada e Saída, Primitivas, Variáveis, Modelo de
+- Avaliação, Condicionais
+- Lição 2: Listas, Strings, Iteração, Invariantes de Loop
+- Lição 3: Funções, Princípio de Abstração e Modularidade, Design Top-down
+- Lição 4: Teste e Depuração
+- Lição 5: Expressões Lambda e Funções de Ordem Superior
+- Lição 6: Recursão
 
-9ª à 10ª séries: Introdução ao Design de Algoritmos 1
+### 9ª à 10ª séries: Introdução ao Design de Algoritmos 1
 Tendo aprendido e dominado os conceitos básicos de programação, os alunos agora podem começar sua jornada
 para o que é popularmente chamado de “programação competitiva”. Nesta fase, eles começam a aprender
 os princípios fundamentais de resolução de problemas e design de algoritmos que estão no cerne da ciência da computação.
 Além disso, eles também aprendem como provar correção e eficiência, e aprendem
 implementação prática com uma linguagem de programação.
 
-• Lição 1: Busca Completa
-• Lição 2: Análise Assintótica
-• Lição 3: Aritmética Modular
-• Lição 4: Contagem
-• Lição 5: Dividir e Conquistar, Parte 1: Busca Binária
-• Lição 6: Dividir e Conquistar, Parte 2: Classificação e Mais Exemplos
-• Lição 7: Introdução às Redes (Teoria dos Grafos)
-• Lição 8: Exploração de Redes (Travessia de Grafos)
-• Lição 9: Retrocesso Recursivo
-• Lição 10: Programação Dinâmica
+- Lição 1: Busca Completa
+- Lição 2: Análise Assintótica
+- Lição 3: Aritmética Modular
+- Lição 4: Contagem
+- Lição 5: Dividir e Conquistar, Parte 1: Busca Binária
+- Lição 6: Dividir e Conquistar, Parte 2: Classificação e Mais Exemplos
+- Lição 7: Introdução às Redes (Teoria dos Grafos)
+- Lição 8: Exploração de Redes (Travessia de Grafos)
+- Lição 9: Retrocesso Recursivo
+- Lição 10: Programação Dinâmica
 
-11ª e 12ª séries: Introdução ao Design de Algoritmos 2
+### 11ª e 12ª séries: Introdução ao Design de Algoritmos 2
 Esta é uma continuação natural do curso anterior. Se o cronograma permitir, em teoria, um aluno do 9º
 ano que concluiu o curso anterior pode começar este curso imediatamente. Não há
 necessidade de esperar até o 11º ano, desde que o aluno seja maduro o suficiente para análise e
 provas. Este esboço de lição é (levemente) baseado em um acampamento de programação que já realizamos
 com sucesso nas Filipinas.
 
-• Lição 1: Introdução ao C++, Revisão da Representação Binária, Operações Bitwise,
-• Bitmasking
-• Lição 2: Estruturas de Dados Lineares
-• Lição 3: Estrutura de Dados em Árvore
+- Lição 1: Introdução ao C++, Revisão da Representação Binária, Operações Bitwise,
+- Bitmasking
+- Lição 2: Estruturas de Dados Lineares
+- Lição 3: Estrutura de Dados em Árvore
 
 Referência: https://www.simcconline.org/drct-3/ (Last acess: Jan-2025)
